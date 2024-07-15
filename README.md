@@ -26,3 +26,8 @@ These instructions will help you set up and run the InteriorLab project on your 
    git clone https://github.com/PranavPatnaik/InteriorLab.git
    cd InteriorLab
 
+### Video Demo
+
+
+### Slide Deck
+https://docs.google.com/presentation/d/1KWeCWUIWsASWHxQ5EM79Ij160dxvPHz9sg2TYTI31I0/edit#slide=id.g2ebf3584422_2_0 
